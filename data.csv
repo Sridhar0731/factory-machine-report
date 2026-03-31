@@ -1,0 +1,11 @@
+machine_id,temperature,rpm,status,downtime_mins
+M001,72,1500,running,0
+M002,95,1200,warning,15
+M003,65,1800,running,0
+M004,110,800,fault,45
+M005,70,1500,running,0
+M006,88,1300,warning,10
+M007,115,600,fault,60
+M008,68,1600,running,0
+M009,75,1400,running,5
+M010,102,900,warning,20
